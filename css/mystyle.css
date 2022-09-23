@@ -1,0 +1,16 @@
+.hover-join:hover {
+    color: black;
+}
+
+.text-lg {
+    font-size: 4em;
+}
+
+.hero__outer {
+    left: 4%;
+    margin-bottom: 16em;
+}
+
+.text-rt {
+    margin-left: 1.5em;
+}
