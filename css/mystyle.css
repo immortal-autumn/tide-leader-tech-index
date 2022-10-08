@@ -15,3 +15,31 @@
     margin: 2em 0;
     text-align: center;
 }
+
+.member {
+    margin-right: 20px;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+}
+
+.member-avatar {
+    margin: 0, auto;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.member-description {
+    width: 100%;
+    overflow: hidden;
+}
+
+.member-description p{
+    color: wheat;
+}
+
+.member-description h6 {
+    color: bisque;
+}
+

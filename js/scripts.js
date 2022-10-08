@@ -201,8 +201,7 @@
         }
       });      
     });
-  }
- 
+  }  
 
   /* Owl Carousel
   -------------------------------------------------------*/
@@ -268,6 +267,21 @@
         navigation: false,
         slideSpeed: 300,
         pagination: false,
+        paginationSpeed: 400,
+        stopOnHover: true,
+        itemsCustom: [
+          [0, 1],      
+          [450, 1],
+          [500, 2],
+          [1200, 3]
+        ],
+      })
+
+      $("#owl-team-slider").owlCarousel({ 
+        autoPlay: 5000,   
+        navigation: false,
+        slideSpeed: 300,
+        pagination: true,
         paginationSpeed: 400,
         stopOnHover: true,
         itemsCustom: [
