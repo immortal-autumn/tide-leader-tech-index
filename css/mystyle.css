@@ -18,15 +18,15 @@
 
 .member {
     margin-right: 20px;
-    height: 400px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     text-align: center;
 }
 
 .member-avatar {
-    margin: 0, auto;
-    height: 150px;
-    width: 150px;
+    margin: 0;
+    height: 200px;
+    width: 200px;
     border-radius: 100px;
 }
 
